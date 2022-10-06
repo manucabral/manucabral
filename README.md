@@ -7,7 +7,7 @@
   About me<br>
   ⚡ Open source enthusiast.<br>
   🖥 Python and Back-End self-taught developer.<br>
-  🎓 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
+  📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
   🛠️ Currently developing [Parches Chat](https://parches-chat.vercel.app/accounts/login) and some open source projects.<br>
   
   🧠 Main knowledge<br>
