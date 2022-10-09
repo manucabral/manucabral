@@ -18,9 +18,6 @@
         <a ref="#"><img src='https://img.shields.io/badge/-Apollo-311C87?style=flat&logo=apollo-graphql' alt="Apollo"></a>
         <a href="#"><img src='https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB' alt="ExpressJS"></a>
         <a href="#"><img src='https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white' alt="Flask"></a>
-        <a href="#"><img src='https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101' alt="Socketio"></a>
-        <a href="#"><img src='https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens' alt="jwt"></a>
-        <a href="#"><img src='https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white' alt="Sequelize"></a>
         <a href="#"><img src='https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white' alt="HTML"></a>
         <a href="#"><img src='https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white' alt="Sass"></a>
         <a href="#"><img src='https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white' alt="css"></a>
