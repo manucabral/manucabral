@@ -35,7 +35,7 @@
         <a href="#"><img src='https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white' alt="Postgres"></a>
         <a href="#"><img src='https://img.shields.io/badge/SQlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white' alt="SQLite"></a>
         <a href="#"><img src='https://img.shields.io/badge/Firebase-039BE5?style=style=flat&logo=Firebase&logoColor=white' alt="Firebase"></a>
-        ... and more techs what am i learning.
+        ... and more techs what am I learning.
      </ul>
   </p>
   Do not forget to view my open source projects below.
