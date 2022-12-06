@@ -17,14 +17,12 @@
         <a href="#"><img src='https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white' alt="GraphQL"></a>
         <a ref="#"><img src='https://img.shields.io/badge/-Apollo-311C87?style=flat&logo=apollo-graphql' alt="Apollo"></a>
         <a href="#"><img src='https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB' alt="ExpressJS"></a>
-        <a href="#"><img src='https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white' alt="Flask"></a>
         <a href="#"><img src='https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white' alt="HTML"></a>
         <a href="#"><img src='https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white' alt="Sass"></a>
         <a href="#"><img src='https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white' alt="css"></a>
-        <a href="#"><img src='https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E' alt="Javscript"></a>
+        <a href="#"><img src='https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E' alt="Javascript"></a>
         <a href="#"><img src='https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white' alt="Typescript"></a>
         <a href="#"><img src='https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white' alt="git"></a>
-        <a href="#"><img src='https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white' alt="Qt"></a>
         <a href="#"><img src='https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white' alt="numpy"></a>
         <a href="#"><img src='https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white' alt="pandas"></a>
         <a href="#"><img src='https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white' alt="tensorflow"></a>
