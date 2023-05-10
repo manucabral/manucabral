@@ -8,7 +8,7 @@
   ⚡ Open source enthusiast.<br>
   🖥 Back-End self-taught developer.<br>
   📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
-  🛠️ Currently developing [Parches Chat](https://teamparches.github.io/parches-chat/) and some open source projects.<br>
+  🛠️ Currently developing [Pastesnip](https://manucabral.github.io/pastesnip-frontend/) and some open source projects.<br>
   
 </p>
 <p>
