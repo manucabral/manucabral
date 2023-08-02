@@ -6,9 +6,9 @@
     
   About me<br>
   ⚡ Open source enthusiast.<br>
-  🖥 Back-End self-taught developer.<br>
-  📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
+  🖥 Self-taught developer.<br>
   🛠️ Currently working as a freelancer.<br>
+  📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
   
 </p>
 <p>
