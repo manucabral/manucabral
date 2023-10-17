@@ -7,7 +7,7 @@
   About me<br>
   ⚡ Open source enthusiast.<br>
   🖥 Self-taught developer.<br>
-  🛠️ Currently working as a freelancer.<br>
+  🛠️ Currently working as a freelancer (agency).<br>
   📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
   
 </p>
