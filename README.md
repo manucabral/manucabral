@@ -7,7 +7,7 @@
   About me<br>
   ⚡ Open source enthusiast.<br>
   🖥 Self-taught developer.<br>
-  🛠️ Currently working at [Mister Web](www.misterweb.com.ar) as a developer.<br>
+  🛠️ Currently working at [Mister Web](https://www.misterweb.com.ar/) as a developer.<br>
   📚 Studying Information Systems Engineering at UTN, Buenos Aires.<br>
   
 </p>
