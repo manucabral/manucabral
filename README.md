@@ -17,7 +17,6 @@
     <a href="https://es.reactjs.org/"><img src='https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB' alt="React"></a>
     <a href="#"><img src='https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white' alt="NextJS"></a>
     <a href="#"><img src='https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white' alt="GraphQL"></a>
-    <a href="#"><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC??style=flat&logo=TailwindCSS&logoColor=white' alt="Tailwind"></a>
     <a href="#"><img src='https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB' alt="ExpressJS"></a>
   </ul>
   <ul>
