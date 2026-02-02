@@ -6,7 +6,7 @@
     
   About me<br>
   ⚡ Open source enthusiast.<br>
-  🖥 Self-taught developer.<br>
+  🖥 Self-taught software developer.<br>
   
 </p>
 <p>
